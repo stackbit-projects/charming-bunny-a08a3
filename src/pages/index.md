@@ -4,10 +4,10 @@ hide_title: true
 sections:
   - type: hero_section
     section_id: hero
-    content: >-
-      We are a brand and design practice. We work closely with you, your team to
-      deliver inspiring work, which enables your organization to grow. [Let's
-      talk](/contact/).
+    content: >
+      Hi, My Name is Anchiao, I’m a Software Engineer. Welcome to my blog! I
+      share thoughts on progamming and life journal here. [Contact
+      me](/contact/).
   - type: portfolio_section
     section_id: latest-projects
     layout_style: tiles
